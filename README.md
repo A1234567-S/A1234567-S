@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @A1234567-S/ Anoushka 
+- 🌱 I’m currently learning R & Python
+- 📫 How to reach me sabooa@usc.edu
